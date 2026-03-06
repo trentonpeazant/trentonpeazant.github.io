@@ -2,9 +2,10 @@
 main:
   - title: "Home"
     url: https://trentonpeazant.github.io/
-  - title: "Blog"
-    url: https://trentonpeazant.github.io/blog/
   - title: "Posts"
     url: https://trentonpeazant.github.io/posts/
+  - title: "Resume"
+    url: https://trentonpeazant.github.io/resume/
   - title: "About"
     url: https://trentonpeazant.github.io/about/
+  
