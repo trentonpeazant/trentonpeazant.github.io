@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+minimal_mistakes_skin: "dark"
 title: Trenton Peazant's Website
 email: trentonpeazant@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -40,6 +40,25 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - minimal-mistakes-jekyll
+
+author:
+  name   : "Trenton Peazant"
+  avatar : "/assets/images/bio_photo.jpeg" 
+  bio    : "Economics & Data Science at William & Mary. Varsity Gymnast."
+  location: "Williamsburg, VA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tpeazant@wm.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/trentonpeazant"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/trentonpeazant"
+
+  
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
