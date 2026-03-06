@@ -28,7 +28,7 @@ twitter_username: x
 github_username:  trentonpeazant
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 include:
   - _pages
   - _data
