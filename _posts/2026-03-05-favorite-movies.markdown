@@ -1,29 +1,38 @@
 ---
+title: "Favorite Movies & Recent Watches"
 layout: posts
-title:  "Favorite Movies"
-date:   2026-03-05 22:13:17 -0500
-categories: first blog post
+date: 2026-03-05
+categories:
+  - Movies
+tags:
+  - Reviews
+  - Letterboxd
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Recent updates from my Letterboxd Diary: 
+As a student of Economics and Data Science, I often find myself analyzing the production value and narrative structures of cinema through a similar analytical lens as my research at the DisInfo Lab.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## Recent Diary Entries
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### **Uncut Gems (2019)**
+* **Rating:** ★★★★★
+* **Notes:** A 2-hour long panic attack. Awesome.
 
-Jekyll also offers powerful support for code snippets:
+### **Heat (1995)**
+* **Rating:** ★★★★★
+* **Notes:** I’d rate it 6 stars if i could. my only problem with it is that one rooftop scene feeling out of place. 10/10 would recommend. The cool blue nighttime shots are goated.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### **Collateral (2004)**
+* **Rating:** ★★★★
+* **Notes:** They say the title of the movie in the dialogue, which I love. Mann encapsulates a stress inducing environment within one night in LA, and puts two characters in a philosophical battle against one another. Not quite as good as Heat, though.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+---
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## My All-Time Favorites
+While my diary is constantly shifting, these remain the "Rock" of my collection (pun intended for my fellow gymnasts):
+
+1.  **Django Unchained** - An extremely satisfying movie to say the least. Also incorporates a lot of humor.
+2.  **Heat** - The cinematography alone would give this movie an 11/10. The cool blue shots of LA are beautiful. A must watch.
+3.  **Goodfellas** - The acting and storyline is just top-tier. Regular stroke of genius for Martin Scorcese.
+
+---
