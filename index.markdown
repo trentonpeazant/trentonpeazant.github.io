@@ -7,11 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/wm_image.jpg
-  actions:
-    - label: "View Resume"
-      url: "/resume/"
-    - label: "Read My Blog"
-      url: "/posts/"
+
 excerpt: "Economics & Data Science Student at William & Mary. Varsity Gymnast. Explorer of technical systems and urban policy."
 feature_row:
   - image_path: /assets/images/code.jpg
