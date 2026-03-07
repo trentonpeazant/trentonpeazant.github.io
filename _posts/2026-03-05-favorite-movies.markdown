@@ -1,6 +1,6 @@
 ---
 title: "Favorite Movies & Recent Watches"
-layout: posts
+layout: single
 date: 2026-03-05
 categories:
   - Movies
@@ -10,7 +10,7 @@ tags:
 ---
 
 Recent updates from my Letterboxd Diary: 
-As a student of Economics and Data Science, I often find myself analyzing the production value and narrative structures of cinema through a similar analytical lens as my research at the DisInfo Lab.
+I thoroughly enjoy movies and music, and here are some of my recent watches logged on my Letterboxd and my all-time favorites.
 
 ## Recent Diary Entries
 
@@ -29,7 +29,7 @@ As a student of Economics and Data Science, I often find myself analyzing the pr
 ---
 
 ## My All-Time Favorites
-While my diary is constantly shifting, these remain the "Rock" of my collection (pun intended for my fellow gymnasts):
+These are currently my all-time favorite movies until I see something that tops either one of the films listed below:
 
 1.  **Django Unchained** - An extremely satisfying movie to say the least. Also incorporates a lot of humor.
 2.  **Heat** - The cinematography alone would give this movie an 11/10. The cool blue shots of LA are beautiful. A must watch.

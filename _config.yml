@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 minimal_mistakes_skin: "dark"
-title: Trenton Peazant's Website
+title: Trenton Peazant
 email: trentonpeazant@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Website created to use as a portfolio of work, or a CV.
+  Website created for personal and professional use. Current student at William & Mary.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: x
