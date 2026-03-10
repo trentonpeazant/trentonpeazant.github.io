@@ -65,6 +65,6 @@ sidebar:
 
 ## Awards & Recognitions
 * **Collegiate Scholar Athlete Award (2025):** Awarded by USA Gymnastics for academic excellence 
-* **Academic All-American Award (2024):** Awarded by the NCAA 
+* **Academic All-American Award (2024):** Awarded by the NCAA for top academic performance
 * **Dean's List (2023):** For achieving at least a 3.6 GPA in a single semester 
-* **Rock Award (2023):** Recognized for dependability and handling pressure
+* **Rock Award (2023):** Recognized for dependability and handling pressures
